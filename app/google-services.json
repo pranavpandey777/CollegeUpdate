@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "33307579317",
+    "firebase_url": "https://pecfest-ac0b6.firebaseio.com",
+    "project_id": "pecfest-ac0b6",
+    "storage_bucket": "pecfest-ac0b6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:33307579317:android:c2caa6eebc598758",
+        "android_client_info": {
+          "package_name": "com.example.pranav.pec"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "33307579317-garctalinp3ks827hi55ogufa5j6pke9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.pranav.pec",
+            "certificate_hash": "fa1d0ca5e178528a63709f15ebda79ce74641cb3"
+          }
+        },
+        {
+          "client_id": "33307579317-4p927gook53lbrrs0ptm53c49tf50a6t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCZG79KUx89dGo2uOIHnVVe6U5RlhLxosM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "33307579317-4p927gook53lbrrs0ptm53c49tf50a6t.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

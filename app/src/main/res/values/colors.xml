@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#f57f17</color><!--008577-->
+    <color name="colorPrimaryDark">#bc5100</color><!--00574B-->
+    <color name="colorAccent">#49b1ca</color><!--D81B60-->
+    <color name="appBackground">#FFD9D7D8</color>
+    <color name="buttonBackground">#49b1ca</color>
+    <color name="rowTextColor">#000</color>
+</resources>
